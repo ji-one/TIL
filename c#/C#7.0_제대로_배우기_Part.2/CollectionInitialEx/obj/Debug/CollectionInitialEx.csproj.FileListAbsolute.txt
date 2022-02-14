@@ -1,0 +1,6 @@
+C:\C#\CollectionInitialEx\bin\Debug\CollectionInitialEx.exe.config
+C:\C#\CollectionInitialEx\bin\Debug\CollectionInitialEx.exe
+C:\C#\CollectionInitialEx\bin\Debug\CollectionInitialEx.pdb
+C:\C#\CollectionInitialEx\obj\Debug\CollectionInitialEx.csproj.CoreCompileInputs.cache
+C:\C#\CollectionInitialEx\obj\Debug\CollectionInitialEx.exe
+C:\C#\CollectionInitialEx\obj\Debug\CollectionInitialEx.pdb

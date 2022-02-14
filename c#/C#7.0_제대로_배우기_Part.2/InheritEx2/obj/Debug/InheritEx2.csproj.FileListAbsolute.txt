@@ -1,0 +1,6 @@
+C:\C#\InheritEx2\bin\Debug\InheritEx2.exe.config
+C:\C#\InheritEx2\bin\Debug\InheritEx2.exe
+C:\C#\InheritEx2\bin\Debug\InheritEx2.pdb
+C:\C#\InheritEx2\obj\Debug\InheritEx2.csproj.CoreCompileInputs.cache
+C:\C#\InheritEx2\obj\Debug\InheritEx2.exe
+C:\C#\InheritEx2\obj\Debug\InheritEx2.pdb

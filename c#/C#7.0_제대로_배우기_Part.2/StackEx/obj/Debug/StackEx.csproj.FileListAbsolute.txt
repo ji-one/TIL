@@ -1,0 +1,6 @@
+C:\C#\StackEx\bin\Debug\StackEx.exe.config
+C:\C#\StackEx\bin\Debug\StackEx.exe
+C:\C#\StackEx\bin\Debug\StackEx.pdb
+C:\C#\StackEx\obj\Debug\StackEx.csproj.CoreCompileInputs.cache
+C:\C#\StackEx\obj\Debug\StackEx.exe
+C:\C#\StackEx\obj\Debug\StackEx.pdb

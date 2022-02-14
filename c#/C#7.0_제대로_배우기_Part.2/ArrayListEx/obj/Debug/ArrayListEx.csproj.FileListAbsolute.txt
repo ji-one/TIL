@@ -1,0 +1,7 @@
+C:\C#\ArrayListEx\bin\Debug\ArrayListEx.exe.config
+C:\C#\ArrayListEx\bin\Debug\ArrayListEx.exe
+C:\C#\ArrayListEx\bin\Debug\ArrayListEx.pdb
+C:\C#\ArrayListEx\obj\Debug\ArrayListEx.csproj.CoreCompileInputs.cache
+C:\C#\ArrayListEx\obj\Debug\ArrayListEx.exe
+C:\C#\ArrayListEx\obj\Debug\ArrayListEx.pdb
+C:\C#\ArrayListEx\obj\Debug\ArrayListEx.csproj.AssemblyReference.cache

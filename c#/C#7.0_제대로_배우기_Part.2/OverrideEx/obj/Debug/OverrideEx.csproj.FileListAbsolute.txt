@@ -1,0 +1,7 @@
+C:\C#\OverrideEx\bin\Debug\OverrideEx.exe.config
+C:\C#\OverrideEx\bin\Debug\OverrideEx.exe
+C:\C#\OverrideEx\bin\Debug\OverrideEx.pdb
+C:\C#\OverrideEx\obj\Debug\OverrideEx.csproj.CoreCompileInputs.cache
+C:\C#\OverrideEx\obj\Debug\OverrideEx.exe
+C:\C#\OverrideEx\obj\Debug\OverrideEx.pdb
+C:\C#\OverrideEx\obj\Debug\OverrideEx.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\C#\InterfaceEx2\bin\Debug\InterfaceEx2.exe.config
+C:\C#\InterfaceEx2\bin\Debug\InterfaceEx2.exe
+C:\C#\InterfaceEx2\bin\Debug\InterfaceEx2.pdb
+C:\C#\InterfaceEx2\obj\Debug\InterfaceEx2.csproj.CoreCompileInputs.cache
+C:\C#\InterfaceEx2\obj\Debug\InterfaceEx2.exe
+C:\C#\InterfaceEx2\obj\Debug\InterfaceEx2.pdb

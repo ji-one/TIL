@@ -1,0 +1,6 @@
+C:\C#\PropertyEx\bin\Debug\PropertyEx.exe.config
+C:\C#\PropertyEx\bin\Debug\PropertyEx.exe
+C:\C#\PropertyEx\bin\Debug\PropertyEx.pdb
+C:\C#\PropertyEx\obj\Debug\PropertyEx.csproj.CoreCompileInputs.cache
+C:\C#\PropertyEx\obj\Debug\PropertyEx.exe
+C:\C#\PropertyEx\obj\Debug\PropertyEx.pdb

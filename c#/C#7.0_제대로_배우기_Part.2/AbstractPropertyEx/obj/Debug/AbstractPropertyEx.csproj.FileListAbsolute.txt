@@ -1,0 +1,7 @@
+C:\C#\AbstractPropertyEx\bin\Debug\AbstractPropertyEx.exe.config
+C:\C#\AbstractPropertyEx\bin\Debug\AbstractPropertyEx.exe
+C:\C#\AbstractPropertyEx\bin\Debug\AbstractPropertyEx.pdb
+C:\C#\AbstractPropertyEx\obj\Debug\AbstractPropertyEx.csproj.AssemblyReference.cache
+C:\C#\AbstractPropertyEx\obj\Debug\AbstractPropertyEx.csproj.CoreCompileInputs.cache
+C:\C#\AbstractPropertyEx\obj\Debug\AbstractPropertyEx.exe
+C:\C#\AbstractPropertyEx\obj\Debug\AbstractPropertyEx.pdb

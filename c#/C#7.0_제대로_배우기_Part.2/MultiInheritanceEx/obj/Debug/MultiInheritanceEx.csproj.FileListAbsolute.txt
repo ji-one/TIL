@@ -1,0 +1,7 @@
+C:\C#\MultiInheritanceEx\bin\Debug\MultiInheritanceEx.exe.config
+C:\C#\MultiInheritanceEx\bin\Debug\MultiInheritanceEx.exe
+C:\C#\MultiInheritanceEx\bin\Debug\MultiInheritanceEx.pdb
+C:\C#\MultiInheritanceEx\obj\Debug\MultiInheritanceEx.csproj.AssemblyReference.cache
+C:\C#\MultiInheritanceEx\obj\Debug\MultiInheritanceEx.csproj.CoreCompileInputs.cache
+C:\C#\MultiInheritanceEx\obj\Debug\MultiInheritanceEx.exe
+C:\C#\MultiInheritanceEx\obj\Debug\MultiInheritanceEx.pdb

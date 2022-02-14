@@ -1,0 +1,7 @@
+C:\C#\ConstructorEx\ClassConversionEx\bin\Debug\ClassConversionEx.exe.config
+C:\C#\ConstructorEx\ClassConversionEx\bin\Debug\ClassConversionEx.exe
+C:\C#\ConstructorEx\ClassConversionEx\bin\Debug\ClassConversionEx.pdb
+C:\C#\ConstructorEx\ClassConversionEx\obj\Debug\ClassConversionEx.csproj.AssemblyReference.cache
+C:\C#\ConstructorEx\ClassConversionEx\obj\Debug\ClassConversionEx.csproj.CoreCompileInputs.cache
+C:\C#\ConstructorEx\ClassConversionEx\obj\Debug\ClassConversionEx.exe
+C:\C#\ConstructorEx\ClassConversionEx\obj\Debug\ClassConversionEx.pdb

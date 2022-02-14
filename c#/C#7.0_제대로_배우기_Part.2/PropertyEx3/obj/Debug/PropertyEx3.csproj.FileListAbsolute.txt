@@ -1,0 +1,7 @@
+C:\C#\PropertyEx3\bin\Debug\PropertyEx3.exe.config
+C:\C#\PropertyEx3\bin\Debug\PropertyEx3.exe
+C:\C#\PropertyEx3\bin\Debug\PropertyEx3.pdb
+C:\C#\PropertyEx3\obj\Debug\PropertyEx3.csproj.AssemblyReference.cache
+C:\C#\PropertyEx3\obj\Debug\PropertyEx3.csproj.CoreCompileInputs.cache
+C:\C#\PropertyEx3\obj\Debug\PropertyEx3.exe
+C:\C#\PropertyEx3\obj\Debug\PropertyEx3.pdb

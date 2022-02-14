@@ -1,0 +1,7 @@
+C:\C#\ConstructorEx\ConstructorEx\bin\Debug\ConstructorEx.exe.config
+C:\C#\ConstructorEx\ConstructorEx\bin\Debug\ConstructorEx.exe
+C:\C#\ConstructorEx\ConstructorEx\bin\Debug\ConstructorEx.pdb
+C:\C#\ConstructorEx\ConstructorEx\obj\Debug\ConstructorEx.csproj.AssemblyReference.cache
+C:\C#\ConstructorEx\ConstructorEx\obj\Debug\ConstructorEx.csproj.CoreCompileInputs.cache
+C:\C#\ConstructorEx\ConstructorEx\obj\Debug\ConstructorEx.exe
+C:\C#\ConstructorEx\ConstructorEx\obj\Debug\ConstructorEx.pdb

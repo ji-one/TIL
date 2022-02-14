@@ -1,0 +1,7 @@
+C:\C#\InterfacePropertyEx\bin\Debug\InterfacePropertyEx.exe.config
+C:\C#\InterfacePropertyEx\bin\Debug\InterfacePropertyEx.exe
+C:\C#\InterfacePropertyEx\bin\Debug\InterfacePropertyEx.pdb
+C:\C#\InterfacePropertyEx\obj\Debug\InterfacePropertyEx.csproj.AssemblyReference.cache
+C:\C#\InterfacePropertyEx\obj\Debug\InterfacePropertyEx.csproj.CoreCompileInputs.cache
+C:\C#\InterfacePropertyEx\obj\Debug\InterfacePropertyEx.exe
+C:\C#\InterfacePropertyEx\obj\Debug\InterfacePropertyEx.pdb

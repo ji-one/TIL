@@ -1,0 +1,6 @@
+C:\C#\HashtableInitialEx\bin\Debug\HashtableInitialEx.exe.config
+C:\C#\HashtableInitialEx\bin\Debug\HashtableInitialEx.exe
+C:\C#\HashtableInitialEx\bin\Debug\HashtableInitialEx.pdb
+C:\C#\HashtableInitialEx\obj\Debug\HashtableInitialEx.csproj.CoreCompileInputs.cache
+C:\C#\HashtableInitialEx\obj\Debug\HashtableInitialEx.exe
+C:\C#\HashtableInitialEx\obj\Debug\HashtableInitialEx.pdb

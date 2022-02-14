@@ -1,0 +1,6 @@
+C:\C#\ThisEx2\bin\Debug\ThisEx2.exe.config
+C:\C#\ThisEx2\bin\Debug\ThisEx2.exe
+C:\C#\ThisEx2\bin\Debug\ThisEx2.pdb
+C:\C#\ThisEx2\obj\Debug\ThisEx2.csproj.CoreCompileInputs.cache
+C:\C#\ThisEx2\obj\Debug\ThisEx2.exe
+C:\C#\ThisEx2\obj\Debug\ThisEx2.pdb

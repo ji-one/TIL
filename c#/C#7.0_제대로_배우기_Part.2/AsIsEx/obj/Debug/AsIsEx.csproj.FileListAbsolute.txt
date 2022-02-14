@@ -1,0 +1,6 @@
+C:\C#\AsIsEx\bin\Debug\AsIsEx.exe.config
+C:\C#\AsIsEx\bin\Debug\AsIsEx.exe
+C:\C#\AsIsEx\bin\Debug\AsIsEx.pdb
+C:\C#\AsIsEx\obj\Debug\AsIsEx.csproj.CoreCompileInputs.cache
+C:\C#\AsIsEx\obj\Debug\AsIsEx.exe
+C:\C#\AsIsEx\obj\Debug\AsIsEx.pdb

@@ -1,0 +1,6 @@
+C:\C#\AbsractClassEx\bin\Debug\AbsractClassEx.exe.config
+C:\C#\AbsractClassEx\bin\Debug\AbsractClassEx.exe
+C:\C#\AbsractClassEx\bin\Debug\AbsractClassEx.pdb
+C:\C#\AbsractClassEx\obj\Debug\AbsractClassEx.csproj.CoreCompileInputs.cache
+C:\C#\AbsractClassEx\obj\Debug\AbsractClassEx.exe
+C:\C#\AbsractClassEx\obj\Debug\AbsractClassEx.pdb

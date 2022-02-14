@@ -1,0 +1,7 @@
+C:\C#\QueueEx\bin\Debug\QueueEx.exe.config
+C:\C#\QueueEx\bin\Debug\QueueEx.exe
+C:\C#\QueueEx\bin\Debug\QueueEx.pdb
+C:\C#\QueueEx\obj\Debug\QueueEx.csproj.AssemblyReference.cache
+C:\C#\QueueEx\obj\Debug\QueueEx.csproj.CoreCompileInputs.cache
+C:\C#\QueueEx\obj\Debug\QueueEx.exe
+C:\C#\QueueEx\obj\Debug\QueueEx.pdb

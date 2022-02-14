@@ -1,0 +1,7 @@
+C:\C#\yieldEx2\bin\Debug\yieldEx2.exe.config
+C:\C#\yieldEx2\bin\Debug\yieldEx2.exe
+C:\C#\yieldEx2\bin\Debug\yieldEx2.pdb
+C:\C#\yieldEx2\obj\Debug\yieldEx2.csproj.AssemblyReference.cache
+C:\C#\yieldEx2\obj\Debug\yieldEx2.csproj.CoreCompileInputs.cache
+C:\C#\yieldEx2\obj\Debug\yieldEx2.exe
+C:\C#\yieldEx2\obj\Debug\yieldEx2.pdb

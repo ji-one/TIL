@@ -1,0 +1,10 @@
+C:\C#\TupleEx\bin\Debug\TupleEx.exe.config
+C:\C#\TupleEx\bin\Debug\TupleEx.exe
+C:\C#\TupleEx\bin\Debug\TupleEx.pdb
+C:\C#\TupleEx\bin\Debug\System.ValueTuple.dll
+C:\C#\TupleEx\bin\Debug\System.ValueTuple.xml
+C:\C#\TupleEx\obj\Debug\TupleEx.csproj.AssemblyReference.cache
+C:\C#\TupleEx\obj\Debug\TupleEx.csproj.CoreCompileInputs.cache
+C:\C#\TupleEx\obj\Debug\TupleEx.csproj.CopyComplete
+C:\C#\TupleEx\obj\Debug\TupleEx.exe
+C:\C#\TupleEx\obj\Debug\TupleEx.pdb

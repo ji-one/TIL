@@ -1,0 +1,6 @@
+C:\C#\StructEx\bin\Debug\StructEx.exe.config
+C:\C#\StructEx\bin\Debug\StructEx.exe
+C:\C#\StructEx\bin\Debug\StructEx.pdb
+C:\C#\StructEx\obj\Debug\StructEx.csproj.CoreCompileInputs.cache
+C:\C#\StructEx\obj\Debug\StructEx.exe
+C:\C#\StructEx\obj\Debug\StructEx.pdb

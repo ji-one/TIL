@@ -1,0 +1,6 @@
+C:\C#\HashtableEx\bin\Debug\HashtableEx.exe.config
+C:\C#\HashtableEx\bin\Debug\HashtableEx.exe
+C:\C#\HashtableEx\bin\Debug\HashtableEx.pdb
+C:\C#\HashtableEx\obj\Debug\HashtableEx.csproj.CoreCompileInputs.cache
+C:\C#\HashtableEx\obj\Debug\HashtableEx.exe
+C:\C#\HashtableEx\obj\Debug\HashtableEx.pdb
