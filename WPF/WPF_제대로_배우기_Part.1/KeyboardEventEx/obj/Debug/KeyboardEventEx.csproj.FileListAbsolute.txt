@@ -1,0 +1,14 @@
+C:\study\WPF\KeyboardEventEx\bin\Debug\KeyboardEventEx.exe.config
+C:\study\WPF\KeyboardEventEx\bin\Debug\KeyboardEventEx.exe
+C:\study\WPF\KeyboardEventEx\bin\Debug\KeyboardEventEx.pdb
+C:\study\WPF\KeyboardEventEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\KeyboardEventEx\obj\Debug\App.g.cs
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx_MarkupCompile.cache
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx_MarkupCompile.lref
+C:\study\WPF\KeyboardEventEx\obj\Debug\MainWindow.baml
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx.g.resources
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx.Properties.Resources.resources
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx.csproj.GenerateResource.cache
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx.exe
+C:\study\WPF\KeyboardEventEx\obj\Debug\KeyboardEventEx.pdb

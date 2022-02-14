@@ -1,0 +1,33 @@
+﻿<Window x:Class="ScrollViewerEx.ScrollCode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScrollViewerEx"
+        mc:Ignorable="d"
+        Title="ScrollCode" Height="200" Width="250">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal">
+            <TextBlock>Line</TextBlock>
+            <RepeatButton Content ="ñ" FontFamily="Wingdings" Click="LineUp"></RepeatButton>
+            <RepeatButton Content ="ò" FontFamily="Wingdings" Click="LineDown"></RepeatButton>
+            <RepeatButton Content="ï" FontFamily="Wingdings" Click="LineLeft"></RepeatButton>
+            <RepeatButton Content="ð" FontFamily="Wingdings" Click="LineRight"></RepeatButton>
+            <TextBlock>Page</TextBlock>
+            <RepeatButton Content ="ñ" FontFamily="Wingdings" Click="PageUp"></RepeatButton>
+            <RepeatButton Content ="ò" FontFamily="Wingdings" Click="PageDown"></RepeatButton>
+            <RepeatButton Content="ï" FontFamily="Wingdings" Click="PageLeft"></RepeatButton>
+            <RepeatButton Content="ð" FontFamily="Wingdings" Click="PageRight"></RepeatButton>
+        </StackPanel>
+        <ScrollViewer HorizontalScrollBarVisibility="Hidden" Name="sv">
+            <TextBlock FontSize="20">
+                애국가<LineBreak/>
+                <LineBreak/>
+                동해물과 백두산이 마르고 닳도록 하느님이 보우하사<LineBreak/>우리나라 만세<LineBreak/><LineBreak/>
+                무궁화 삼천리 화려 강산 대한사람 대한으로<LineBreak/>길이 보전하세<LineBreak/><LineBreak/>
+                남산 위에 저 소나무 철갑을 두른 듯 <LineBreak/><LineBreak/> 불변함은 우리 기상일세 <LineBreak/><LineBreak/>
+                무궁화 삼천리 화려 강산 대한 사람 대한으로 <LineBreak/> 길이 보전하세
+            </TextBlock>
+        </ScrollViewer>
+    </DockPanel>
+</Window>

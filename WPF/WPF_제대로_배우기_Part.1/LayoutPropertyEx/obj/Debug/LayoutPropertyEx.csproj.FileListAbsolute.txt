@@ -1,0 +1,15 @@
+C:\study\WPF\LayoutPropertyEx\bin\Debug\LayoutPropertyEx.exe.config
+C:\study\WPF\LayoutPropertyEx\bin\Debug\LayoutPropertyEx.exe
+C:\study\WPF\LayoutPropertyEx\bin\Debug\LayoutPropertyEx.pdb
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.csproj.AssemblyReference.cache
+C:\study\WPF\LayoutPropertyEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\LayoutPropertyEx\obj\Debug\App.g.cs
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx_MarkupCompile.cache
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx_MarkupCompile.lref
+C:\study\WPF\LayoutPropertyEx\obj\Debug\MainWindow.baml
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.g.resources
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.Properties.Resources.resources
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.csproj.GenerateResource.cache
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.exe
+C:\study\WPF\LayoutPropertyEx\obj\Debug\LayoutPropertyEx.pdb

@@ -1,0 +1,14 @@
+C:\study\WPF\ExpanderEx\bin\Debug\ExpanderEx.exe.config
+C:\study\WPF\ExpanderEx\bin\Debug\ExpanderEx.exe
+C:\study\WPF\ExpanderEx\bin\Debug\ExpanderEx.pdb
+C:\study\WPF\ExpanderEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\ExpanderEx\obj\Debug\App.g.cs
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx_MarkupCompile.cache
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx_MarkupCompile.lref
+C:\study\WPF\ExpanderEx\obj\Debug\MainWindow.baml
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx.g.resources
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx.Properties.Resources.resources
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx.csproj.GenerateResource.cache
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx.exe
+C:\study\WPF\ExpanderEx\obj\Debug\ExpanderEx.pdb

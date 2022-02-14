@@ -1,0 +1,30 @@
+﻿<Window x:Class="GroupBoxEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroupBoxEx"
+        mc:Ignorable="d"
+        Title="GroupBox 예제" Height="180" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <GroupBox>
+            <GroupBox.Header>
+                <StackPanel Orientation="Horizontal">
+                    <Label FontFamily="Wingdings" FontSize="17">8</Label>
+                    <Label>마우스 클릭 기본 단추</Label>
+                </StackPanel>
+            </GroupBox.Header>
+            <StackPanel>
+                <RadioButton Content="왼손 잡이" Margin="5"/>
+                <RadioButton Content="오른손 잡이" Margin="5" IsChecked="True"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row = "1" Header="마우스 속도">
+            <Slider Margin="5"/>
+        </GroupBox>
+    </Grid>
+</Window>

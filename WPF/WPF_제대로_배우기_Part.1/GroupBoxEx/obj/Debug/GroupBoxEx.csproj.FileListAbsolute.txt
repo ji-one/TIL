@@ -1,0 +1,15 @@
+C:\study\WPF\GroupBoxEx\bin\Debug\GroupBoxEx.exe.config
+C:\study\WPF\GroupBoxEx\bin\Debug\GroupBoxEx.exe
+C:\study\WPF\GroupBoxEx\bin\Debug\GroupBoxEx.pdb
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.csproj.AssemblyReference.cache
+C:\study\WPF\GroupBoxEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\GroupBoxEx\obj\Debug\App.g.cs
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx_MarkupCompile.cache
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx_MarkupCompile.lref
+C:\study\WPF\GroupBoxEx\obj\Debug\MainWindow.baml
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.g.resources
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.Properties.Resources.resources
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.csproj.GenerateResource.cache
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.exe
+C:\study\WPF\GroupBoxEx\obj\Debug\GroupBoxEx.pdb

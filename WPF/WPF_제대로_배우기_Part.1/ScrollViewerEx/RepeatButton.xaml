@@ -1,0 +1,16 @@
+﻿<Window x:Class="ScrollViewerEx.RepeatButton"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScrollViewerEx"
+        mc:Ignorable="d"
+        Title="ScrollCode" Height="200" Width="250">
+    <Grid>
+        <Canvas>
+            <RepeatButton Name="btnDown" Width="50" Height="20" Canvas.Left="20" Click="btnDown_Click">작게</RepeatButton>
+            <RepeatButton Name="btnUp" Width="50" Height="20" Canvas.Left="75" Click="btnUp_Click">크게</RepeatButton>
+            <TextBlock Text="Hello WPF!" Name="tbName" FontSize="20" Width="auto" Height="auto" Canvas.Top="50" Canvas.Left="20" TextWrapping="Wrap"/>
+        </Canvas>
+    </Grid>
+</Window>

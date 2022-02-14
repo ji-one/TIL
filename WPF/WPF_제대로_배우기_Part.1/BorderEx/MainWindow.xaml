@@ -1,0 +1,23 @@
+﻿<Window x:Class="BorderEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BorderEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="250">
+    <StackPanel>
+        <Border Margin="20" Background="BlueViolet" BorderThickness="5 10 0 15" BorderBrush="Gold" Padding="30, 10" >
+            <Label Foreground="White">Hello, World!</Label>
+        </Border>
+        <Border Margin="20" Background="Beige" BorderBrush="DarkGreen" BorderThickness="5" CornerRadius="10">
+            <Label>Hi, WPF!</Label>
+        </Border>
+        <Border Margin="20" Background="Aqua" BorderThickness="5" BorderBrush="Chocolate" Padding="30" CornerRadius="80">
+            <Label>Hi, CSharp!</Label>
+        </Border>
+        <Border Margin="20" Background="CadetBlue" BorderThickness="5" BorderBrush="Magenta" CornerRadius="10 20 0 30" Padding="30">
+            <Label>Hi, World!</Label>
+        </Border>
+    </StackPanel>
+</Window>

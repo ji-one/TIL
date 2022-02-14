@@ -1,0 +1,15 @@
+C:\study\WPF\RoutedEventEx\bin\Debug\RoutedEventEx.exe.config
+C:\study\WPF\RoutedEventEx\bin\Debug\RoutedEventEx.exe
+C:\study\WPF\RoutedEventEx\bin\Debug\RoutedEventEx.pdb
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.csproj.AssemblyReference.cache
+C:\study\WPF\RoutedEventEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\RoutedEventEx\obj\Debug\App.g.cs
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx_MarkupCompile.cache
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx_MarkupCompile.lref
+C:\study\WPF\RoutedEventEx\obj\Debug\MainWindow.baml
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.g.resources
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.Properties.Resources.resources
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.csproj.GenerateResource.cache
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.exe
+C:\study\WPF\RoutedEventEx\obj\Debug\RoutedEventEx.pdb

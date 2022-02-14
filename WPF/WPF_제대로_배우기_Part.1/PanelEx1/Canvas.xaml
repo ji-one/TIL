@@ -1,0 +1,14 @@
+﻿<Window x:Class="PanelEx1.Canvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PanelEx1"
+        mc:Ignorable="d"
+        Title="Canvas" Height="300" Width="300">
+    <Canvas Name="canvas1">
+        <TextBlock Name="txtBlock" Canvas.Left="67" TextWrapping="Wrap" Text="알파카" Canvas.Top="33" RenderTransformOrigin="0.506,-1.754"/>
+        <Button Name="btn" Content="확인" Canvas.Left="161" Canvas.Top="31" Width="75"/>
+        <Image Name="image1" Source="image1.jpg" Width="169" Canvas.Left="67" Canvas.Top="74" Height="160"/>
+    </Canvas>
+</Window>

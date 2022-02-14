@@ -1,0 +1,44 @@
+﻿<Window x:Class="ExpanderEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExpanderEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="370">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label FontFamily="Wingdings" FontSize="40" Content="x"/>
+        <Label Grid.Column="1"
+               FontSize="15"
+               FontWeight="Bold" VerticalAlignment="Center" Content="비밀번호가 유효하지 않습니다."/>
+        <!-- <Expander Grid.Row="1" Grid.Column="1" Header="정보 더보기">
+            <TextBlock Margin="24 8 0 0">
+                비밀번호는 다음 요구사항을 만족해야 합니다. <LineBreak/>
+                1. 비밀번호의 자리수는 12자 이상이어야 한다. <LineBreak/>
+                2. 숫자, 영문자, 특수기호가 포함되어야 한다. <LineBreak/>
+                3. 대소문자가 포함되어야 한다.
+            </TextBlock>
+        </Expander> -->
+        <Expander Grid.Row="1" Grid.Column="1" IsExpanded="True" ExpandDirection="Up" Expanded="expand" Collapsed="collapse">
+            <Expander.Header>
+                <TextBlock>
+                    비밀번호 요구사항 <Run FontWeight="Bold" Foreground="Blue">보기</Run>
+                </TextBlock>
+            </Expander.Header>
+            <TextBlock Margin="24 8 0 0">
+                비밀번호는 다음 요구사항을 만족해야 합니다. <LineBreak/>
+                1. 비밀번호의 자리수는 12자 이상이어야 한다. <LineBreak/>
+                2. 숫자, 영문자, 특수기호가 포함되어야 한다. <LineBreak/>
+                3. 대소문자가 포함되어야 한다.
+            </TextBlock>
+        </Expander>
+    </Grid>
+</Window>

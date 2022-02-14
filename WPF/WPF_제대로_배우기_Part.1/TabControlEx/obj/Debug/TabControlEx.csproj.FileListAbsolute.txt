@@ -1,0 +1,14 @@
+C:\study\WPF\TabControlEx\bin\Debug\TabControlEx.exe.config
+C:\study\WPF\TabControlEx\bin\Debug\TabControlEx.exe
+C:\study\WPF\TabControlEx\bin\Debug\TabControlEx.pdb
+C:\study\WPF\TabControlEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\TabControlEx\obj\Debug\App.g.cs
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx_MarkupCompile.cache
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx_MarkupCompile.lref
+C:\study\WPF\TabControlEx\obj\Debug\MainWindow.baml
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx.g.resources
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx.Properties.Resources.resources
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx.csproj.GenerateResource.cache
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx.exe
+C:\study\WPF\TabControlEx\obj\Debug\TabControlEx.pdb

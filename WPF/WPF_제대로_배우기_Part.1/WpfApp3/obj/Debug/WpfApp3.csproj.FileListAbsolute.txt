@@ -1,0 +1,14 @@
+C:\study\WPF\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\study\WPF\WpfApp3\obj\Debug\App.g.cs
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\study\WPF\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\study\WPF\WpfApp3\bin\Debug\WpfApp3.exe
+C:\study\WPF\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\study\WPF\WpfApp3\obj\Debug\MainWindow.baml
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3.exe
+C:\study\WPF\WpfApp3\obj\Debug\WpfApp3.pdb

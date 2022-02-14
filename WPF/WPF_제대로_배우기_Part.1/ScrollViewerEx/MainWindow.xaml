@@ -1,0 +1,20 @@
+﻿<Window x:Class="ScrollViewerEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScrollViewerEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <ScrollViewer>
+        <StackPanel>
+            <TextBlock Background="AliceBlue" Text="tb1" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+            <TextBlock Background="Crimson" Text="tb2" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+            <TextBlock Background="Aqua" Text="tb3" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+            <TextBlock Background="LimeGreen" Text="tb4" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+            <TextBlock Background="BlueViolet" Text="tb5" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+            <TextBlock Background="Wheat" Text="tb6" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+            <TextBlock Background="Orange" Text="tb7" Width="Auto" Height="30" TextAlignment="Center" FontSize="20"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

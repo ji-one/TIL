@@ -1,0 +1,28 @@
+﻿<Window x:Class="ViewBoxEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViewBoxEx"
+        mc:Ignorable="d"
+        Title="ViewBoxEX" SizeToContent="WidthAndHeight">
+    <Viewbox>
+    <DockPanel Width="250" Height="200">
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Background="AliceBlue">
+            <Button Content="m1" Margin="1"/>
+            <Button Content="m2" Margin="1"/>
+            <Button Content="m3" Margin="1 1 10 1"/>
+            <Button Content="m4" Margin="1"/>
+            <Button Content="m5" Margin="1"/>
+            <Button Content="m6" Margin="1"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom" Background="AliceBlue" Height="25">
+            <TextBlock VerticalAlignment="Center">로딩정보</TextBlock>
+            <ProgressBar Width="100" Margin="4" Value="60"/>
+        </StackPanel>
+        <Grid>
+            <TextBlock>컨텐트 영역</TextBlock>
+        </Grid>
+    </DockPanel>
+    </Viewbox>
+</Window>

@@ -1,0 +1,24 @@
+﻿<Window x:Class="PanelEx1.Dockpanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PanelEx1"
+        mc:Ignorable="d"
+        Title="Dockpanel" Height="300" Width="400">
+
+    <DockPanel Name="dp1">
+        <Border DockPanel.Dock="Top" Background="yellow" Height="20" BorderThickness="1" BorderBrush="red">
+            <TextBlock Text="Dock=top"/>
+        </Border>
+        <Border DockPanel.Dock="Bottom" Background="LightBlue" BorderThickness="1" BorderBrush="red">
+            <TextBlock Text="Dock=Bottom"/>
+        </Border>
+        <Border DockPanel.Dock="Left" Width="100" Background="LightGreen" BorderThickness="1" BorderBrush="red">
+            <TextBlock Text="Dock=Left"/>
+        </Border>
+        <Border Background="White" BorderBrush="red" BorderThickness="1">
+            <TextBlock Text="내용"/>
+        </Border>
+    </DockPanel>
+</Window>

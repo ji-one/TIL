@@ -1,0 +1,59 @@
+﻿<Window x:Class="TabControlEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TabControlEx"
+        mc:Ignorable="d"
+        Title="TabControl 예제" Height="200" Width="250">
+    <Grid Background="PaleGreen">
+          <Grid.RowDefinitions>
+              <RowDefinition/>
+              <RowDefinition Height="Auto"/>
+          </Grid.RowDefinitions>
+        <TabControl Margin="5 5 5 0" TabStripPlacement="Bottom">
+            <TabItem Header="사원">
+                <Grid VerticalAlignment="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Margin="5">부서</Label>
+                    <TextBox Grid.Column="1" Margin="5"/>
+                    <Label Margin="5" Grid.Row="1">이름</Label>
+                    <TextBox Grid.Row="1" Grid.Column="1" Margin="5"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="급여" IsSelected="True">
+                <Grid VerticalAlignment="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Margin="5">분류</Label>
+                    <ComboBox Margin="5" Grid.Column="1">
+                        <ComboBox.Items>
+                            <ComboBoxItem>연봉</ComboBoxItem>
+                            <ComboBoxItem>월급</ComboBoxItem>
+                        </ComboBox.Items>
+                    </ComboBox>
+                    <Label Margin="5" Grid.Row="1">금액</Label>
+                    <TextBox Grid.Row="1" Grid.Column="1" Margin="5"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Button Width="100" Margin="5 10" Content="확인"/>
+            <Button Width="100" Margin="5 10" Content="취소"/>
+            
+        </StackPanel>   
+    </Grid>
+</Window>
