@@ -1,0 +1,25 @@
+﻿<Window x:Class="CopyPasteEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CopyPasteEx"
+        mc:Ignorable="d"
+        Title="Copy / Paste 예제" Height="100" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Name="MyTextBox" Grid.ColumnSpan="3" Margin="4"/>
+        <Button Grid.Row="1" Margin="4" Click="Cut_Click">잘라내기</Button>
+        <Button Grid.Row="1" Grid.Column ="1" Margin="4" Click="Copy_Click">복사</Button>
+        <Button Grid.Row="1" Grid.Column="2" Margin="4" Click="Paste_Click">붙여넣기</Button>
+    </Grid>
+</Window>

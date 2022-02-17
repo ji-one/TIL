@@ -1,0 +1,15 @@
+C:\study\WPF\part2\DragEx\bin\Debug\DragEx.exe.config
+C:\study\WPF\part2\DragEx\bin\Debug\DragEx.exe
+C:\study\WPF\part2\DragEx\bin\Debug\DragEx.pdb
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\DragEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\DragEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx_MarkupCompile.cache
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx_MarkupCompile.lref
+C:\study\WPF\part2\DragEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.g.resources
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.Properties.Resources.resources
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.exe
+C:\study\WPF\part2\DragEx\obj\Debug\DragEx.pdb

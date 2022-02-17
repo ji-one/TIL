@@ -1,0 +1,25 @@
+﻿<Window x:Class="MouseEventEx.ControlTemplateEx"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MouseEventEx"
+        mc:Ignorable="d"
+        Title="ControlTemplateEx" Height="450" Width="400">
+    <Window.Resources>
+        <ControlTemplate x:Key="A" TargetType="Button">
+            <Border BorderBrush="Blue" Background="White"
+                    BorderThickness="3">
+                <ContentPresenter>
+                    
+                </ContentPresenter>
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid Height="Auto" Width="400">
+        <StackPanel Height="100">
+            <Button Content="A Template" Template="{StaticResource A}"/>
+            <Button Content="Default Template"/>
+        </StackPanel>
+    </Grid>
+</Window>

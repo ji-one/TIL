@@ -1,0 +1,17 @@
+C:\study\WPF\part2\BorderEx\bin\Debug\BorderEx.exe.config
+C:\study\WPF\part2\BorderEx\bin\Debug\BorderEx.exe
+C:\study\WPF\part2\BorderEx\bin\Debug\BorderEx.pdb
+C:\study\WPF\part2\BorderEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\BorderEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx_MarkupCompile.cache
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx_MarkupCompile.lref
+C:\study\WPF\part2\BorderEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.g.resources
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.Properties.Resources.resources
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.exe
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.pdb
+C:\study\WPF\part2\BorderEx\obj\Debug\BorderEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\BorderEx\obj\Debug\Ex2.g.cs
+C:\study\WPF\part2\BorderEx\obj\Debug\Ex2.baml

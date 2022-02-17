@@ -1,0 +1,17 @@
+C:\study\WPF\part2\TextBoxEx\bin\Debug\TextBoxEx.exe.config
+C:\study\WPF\part2\TextBoxEx\bin\Debug\TextBoxEx.exe
+C:\study\WPF\part2\TextBoxEx\bin\Debug\TextBoxEx.pdb
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\TextBoxEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\TextBoxEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx_MarkupCompile.cache
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx_MarkupCompile.lref
+C:\study\WPF\part2\TextBoxEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.g.resources
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.Properties.Resources.resources
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.exe
+C:\study\WPF\part2\TextBoxEx\obj\Debug\TextBoxEx.pdb
+C:\study\WPF\part2\TextBoxEx\obj\Debug\Ex2.g.cs
+C:\study\WPF\part2\TextBoxEx\obj\Debug\Ex2.baml

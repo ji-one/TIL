@@ -1,0 +1,14 @@
+C:\study\WPF\part2\ClickModeEx\bin\Debug\ClickModeEx.exe.config
+C:\study\WPF\part2\ClickModeEx\bin\Debug\ClickModeEx.exe
+C:\study\WPF\part2\ClickModeEx\bin\Debug\ClickModeEx.pdb
+C:\study\WPF\part2\ClickModeEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\ClickModeEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx_MarkupCompile.cache
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx_MarkupCompile.lref
+C:\study\WPF\part2\ClickModeEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx.g.resources
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx.Properties.Resources.resources
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx.exe
+C:\study\WPF\part2\ClickModeEx\obj\Debug\ClickModeEx.pdb

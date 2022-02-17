@@ -1,0 +1,15 @@
+C:\study\WPF\part2\visibilityStatusEx\bin\Debug\visibilityStatusEx.exe.config
+C:\study\WPF\part2\visibilityStatusEx\bin\Debug\visibilityStatusEx.exe
+C:\study\WPF\part2\visibilityStatusEx\bin\Debug\visibilityStatusEx.pdb
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx_MarkupCompile.cache
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx_MarkupCompile.lref
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.g.resources
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.Properties.Resources.resources
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.exe
+C:\study\WPF\part2\visibilityStatusEx\obj\Debug\visibilityStatusEx.pdb
