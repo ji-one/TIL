@@ -1,0 +1,26 @@
+﻿<Window x:Class="CopyPasteEx.UnDoReDoEx"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CopyPasteEx"
+        mc:Ignorable="d"
+        Title="UnDoReDoEx" Height="200" Width="250">
+    <StackPanel>
+        <TextBox Name="MyTextBox"
+                 Height="75"
+                 TextWrapping="Wrap"
+                 TextChanged="MyTextBox_TextChanged"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Width="100" Margin="5" Click="Undo_Click">Undo</Button>
+            <Button Width="100" Margin="5" Click="Redo_Click">Redo</Button>
+        </StackPanel>
+        <CheckBox Name="Chk_Undo" IsEnabled="False">Undo 가능</CheckBox>
+        <CheckBox Name="Chk_Redo" IsEnabled="False">Redo 가능</CheckBox>
+        <CheckBox Name="chk_IsUndoEnabled"
+                  IsChecked="True"
+                  Click="IsUndoEnabled_Click">
+            Undo 기능 사용 여부
+        </CheckBox>
+    </StackPanel>
+</Window>

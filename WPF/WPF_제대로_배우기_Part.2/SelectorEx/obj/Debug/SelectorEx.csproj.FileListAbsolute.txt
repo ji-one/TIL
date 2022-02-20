@@ -1,0 +1,15 @@
+C:\study\WPF\part2\SelectorEx\bin\Debug\SelectorEx.exe.config
+C:\study\WPF\part2\SelectorEx\bin\Debug\SelectorEx.exe
+C:\study\WPF\part2\SelectorEx\bin\Debug\SelectorEx.pdb
+C:\study\WPF\part2\SelectorEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\SelectorEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx_MarkupCompile.cache
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx_MarkupCompile.lref
+C:\study\WPF\part2\SelectorEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.g.resources
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.Properties.Resources.resources
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.exe
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.pdb
+C:\study\WPF\part2\SelectorEx\obj\Debug\SelectorEx.csproj.AssemblyReference.cache

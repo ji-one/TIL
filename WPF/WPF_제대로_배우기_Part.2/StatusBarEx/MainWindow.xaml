@@ -1,0 +1,19 @@
+﻿<Window x:Class="StatusBarEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StatusBarEx"
+        mc:Ignorable="d"
+        Title="StatusBar 예제" Height="200" Width="250">
+    <DockPanel>
+        <StatusBar DockPanel.Dock="Bottom">
+            로딩중 ...
+            <Separator/>
+            <ProgressBar Width="100" Height="15" Value="65"/>
+            <Separator/>
+            65%
+        </StatusBar>
+        <Label>컨텐츠</Label>
+    </DockPanel>
+</Window>

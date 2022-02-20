@@ -1,0 +1,14 @@
+C:\study\WPF\part2\PopupEx\bin\Debug\PopupEx.exe.config
+C:\study\WPF\part2\PopupEx\bin\Debug\PopupEx.exe
+C:\study\WPF\part2\PopupEx\bin\Debug\PopupEx.pdb
+C:\study\WPF\part2\PopupEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\PopupEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx_MarkupCompile.cache
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx_MarkupCompile.lref
+C:\study\WPF\part2\PopupEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx.g.resources
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx.Properties.Resources.resources
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx.exe
+C:\study\WPF\part2\PopupEx\obj\Debug\PopupEx.pdb

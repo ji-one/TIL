@@ -1,0 +1,15 @@
+C:\study\WPF\part2\ToolTipEx\bin\Debug\ToolTipEx.exe.config
+C:\study\WPF\part2\ToolTipEx\bin\Debug\ToolTipEx.exe
+C:\study\WPF\part2\ToolTipEx\bin\Debug\ToolTipEx.pdb
+C:\study\WPF\part2\ToolTipEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\ToolTipEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx_MarkupCompile.cache
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx_MarkupCompile.lref
+C:\study\WPF\part2\ToolTipEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.g.resources
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.Properties.Resources.resources
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.exe
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.pdb
+C:\study\WPF\part2\ToolTipEx\obj\Debug\ToolTipEx.csproj.AssemblyReference.cache

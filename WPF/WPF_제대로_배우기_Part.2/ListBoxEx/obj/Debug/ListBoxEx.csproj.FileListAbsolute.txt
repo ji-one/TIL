@@ -1,0 +1,15 @@
+C:\study\WPF\part2\ListBoxEx\bin\Debug\ListBoxEx.exe.config
+C:\study\WPF\part2\ListBoxEx\bin\Debug\ListBoxEx.exe
+C:\study\WPF\part2\ListBoxEx\bin\Debug\ListBoxEx.pdb
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\ListBoxEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\ListBoxEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx_MarkupCompile.cache
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx_MarkupCompile.lref
+C:\study\WPF\part2\ListBoxEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.g.resources
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.Properties.Resources.resources
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.exe
+C:\study\WPF\part2\ListBoxEx\obj\Debug\ListBoxEx.pdb

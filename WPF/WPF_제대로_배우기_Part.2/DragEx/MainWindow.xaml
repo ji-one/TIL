@@ -1,0 +1,40 @@
+﻿<Window x:Class="DragEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DragEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="250">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Name="LeftText" />
+        <TextBlock Name="RightText" Grid.Column="1"/>
+<!-- 
+        Thumb 클래스의 목적은 끌기와 관련된 기능을 제공하는 것
+        
+        GridSplitter는 Thumb클래스에서 파생된 클래스로 
+        열이나 행의 크기를 드래그해서 조정할 수 있는 기능을 제공한다.
+        
+        DragStarted 이벤트 : 드래그하기 시작할 때 발생하는 이벤트
+        DragCompleted 이벤트 : 사용자가 드래그를 중지하고 마우스 버튼을 놓았을 때 발생하는 이벤트
+        
+        DragDelta 이벤트 : 마우스를 움직이면 이벤트가 반복적으로 발생한다.
+        
+        IsDragging 속성 : 사용자가 드래그를 하는 동안에는 true, 중지되면 false를 리턴
+        
+        CancelDrag 메소드 : 이 메소드를 호출하면 드래그 작업이 즉시 중지
+        -->
+        <GridSplitter Name="GS" 
+                      Background="Gray"
+                      Width="5"
+                      HorizontalAlignment="Right"
+                      VerticalAlignment="Stretch"
+                      DragStarted="GS_DragStarted"
+                      DragCompleted="GS_DragCompleted"
+                      DragDelta="GS_DragDelta"/>
+    </Grid>
+</Window>

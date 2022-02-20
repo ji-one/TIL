@@ -1,0 +1,14 @@
+C:\study\WPF\part2\CalendarEx\bin\Debug\CalendarEx.exe.config
+C:\study\WPF\part2\CalendarEx\bin\Debug\CalendarEx.exe
+C:\study\WPF\part2\CalendarEx\bin\Debug\CalendarEx.pdb
+C:\study\WPF\part2\CalendarEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\CalendarEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx_MarkupCompile.cache
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx_MarkupCompile.lref
+C:\study\WPF\part2\CalendarEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx.g.resources
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx.Properties.Resources.resources
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx.exe
+C:\study\WPF\part2\CalendarEx\obj\Debug\CalendarEx.pdb

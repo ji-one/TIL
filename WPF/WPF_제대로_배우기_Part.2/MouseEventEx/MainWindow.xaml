@@ -1,0 +1,19 @@
+﻿<Window x:Class="MouseEventEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MouseEventEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="20" Background="CadetBlue" MouseDown="SP_MouseDown" MouseUp="SP_MouseUp"
+                MouseLeftButtonDown="SP_MouseLeftButtonDown"
+                MouseLeftButtonUp="SP_MouseLeftButtonUp"
+                MouseRightButtonDown="SP_MouseRightButtonDown"
+                MouseRightButtonUp="SP_MouseRightButtonUp"
+                MouseEnter="SP_MouseEnter"
+                MouseLeave="SP_MouseLeave"
+                MouseMove="SP_MouseMove"
+                MouseWheel="SP_MouseWheel">
+    </StackPanel>
+</Window>

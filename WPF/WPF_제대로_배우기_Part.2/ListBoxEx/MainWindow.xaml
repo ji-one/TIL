@@ -1,0 +1,36 @@
+﻿<Window x:Class="ListBoxEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListBoxEx"
+        mc:Ignorable="d"
+        Title="ListBox 예제" Height="200" Width="200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <!--
+            ListBox는 Selector를 상속 받은 클래스(객체)이다.
+        
+            SelectedItem, SelectedIndex, SelectedValue, SelectedValuedPath 속성을 이용할 수 있다.
+                
+            다중 선택 (SelectionMode 속성을 이용)
+            - Single : 기본값 단일 선택만 허용
+            - Multiple : 선택항목을 여러개로 선택할 수 있다. (Shift, Ctrl 키는 적용되지 않음)
+            - Extended : 다중 선택 가능, Shift 키를 누르고 인접한 항목 그룹을 선택, Ctrl를 누르면
+                            여러 항목 또는 그룹을 개별적으로 선택할 수 있다.
+        -->
+        <ListBox Name="MyList" SelectionMode="Multiple"> 
+            <ListBoxItem>Mon</ListBoxItem>
+            <ListBoxItem>Tue</ListBoxItem>
+            <ListBoxItem>Wed</ListBoxItem>
+            <ListBoxItem>Thu</ListBoxItem>
+            <ListBoxItem>Fri</ListBoxItem>
+            <ListBoxItem>Sat</ListBoxItem>
+            <ListBoxItem>Sun</ListBoxItem>
+        </ListBox>
+        <Button Grid.Row="1" Click="Btn_Click">확인</Button>
+    </Grid>
+</Window>

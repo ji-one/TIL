@@ -1,0 +1,15 @@
+C:\study\WPF\part2\ProgressBarEx\bin\Debug\ProgressBarEx.exe.config
+C:\study\WPF\part2\ProgressBarEx\bin\Debug\ProgressBarEx.exe
+C:\study\WPF\part2\ProgressBarEx\bin\Debug\ProgressBarEx.pdb
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx_MarkupCompile.cache
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx_MarkupCompile.lref
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.g.resources
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.Properties.Resources.resources
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.exe
+C:\study\WPF\part2\ProgressBarEx\obj\Debug\ProgressBarEx.pdb

@@ -1,0 +1,17 @@
+C:\study\WPF\part2\CopyPasteEx\bin\Debug\CopyPasteEx.exe.config
+C:\study\WPF\part2\CopyPasteEx\bin\Debug\CopyPasteEx.exe
+C:\study\WPF\part2\CopyPasteEx\bin\Debug\CopyPasteEx.pdb
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx_MarkupCompile.cache
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx_MarkupCompile.lref
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.g.resources
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.Properties.Resources.resources
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.exe
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.pdb
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\UnDoReDoEx.g.cs
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\CopyPasteEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\CopyPasteEx\obj\Debug\UnDoReDoEx.baml

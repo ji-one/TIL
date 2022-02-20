@@ -1,0 +1,22 @@
+﻿<Window x:Class="MouseEventEx.StyleEx"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MouseEventEx"
+        mc:Ignorable="d"
+        Title="StyleEx" Height="450" Width="400">
+    <Window.Resources>
+        <Style x:Key="StdButton" TargetType="Button">
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="ItemsControl.Background" Value="AliceBlue"/>
+            <Setter Property="ItemsControl.FontWeight" Value="Bold"/>
+            <Setter Property="ItemsControl.Foreground" Value="Red"/>   
+        </Style>
+    </Window.Resources>
+    <StackPanel Orientation="Horizontal">
+        <Button Content="버튼1" Style="{StaticResource StdButton}"/>
+        <Button Content="버튼2" Style="{StaticResource StdButton}"/>
+        <Button Content="버튼3" Style="{StaticResource StdButton}"/>
+    </StackPanel>
+</Window>

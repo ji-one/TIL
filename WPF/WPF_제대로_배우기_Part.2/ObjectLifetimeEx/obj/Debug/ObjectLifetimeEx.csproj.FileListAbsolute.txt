@@ -1,0 +1,15 @@
+C:\study\WPF\part2\ObjectLifetimeEx\bin\Debug\ObjectLifetimeEx.exe.config
+C:\study\WPF\part2\ObjectLifetimeEx\bin\Debug\ObjectLifetimeEx.exe
+C:\study\WPF\part2\ObjectLifetimeEx\bin\Debug\ObjectLifetimeEx.pdb
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.csproj.AssemblyReference.cache
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx_MarkupCompile.cache
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx_MarkupCompile.lref
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.g.resources
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.Properties.Resources.resources
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.exe
+C:\study\WPF\part2\ObjectLifetimeEx\obj\Debug\ObjectLifetimeEx.pdb

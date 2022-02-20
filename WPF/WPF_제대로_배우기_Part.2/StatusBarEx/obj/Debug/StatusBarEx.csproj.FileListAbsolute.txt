@@ -1,0 +1,14 @@
+C:\study\WPF\part2\StatusBarEx\bin\Debug\StatusBarEx.exe.config
+C:\study\WPF\part2\StatusBarEx\bin\Debug\StatusBarEx.exe
+C:\study\WPF\part2\StatusBarEx\bin\Debug\StatusBarEx.pdb
+C:\study\WPF\part2\StatusBarEx\obj\Debug\MainWindow.g.cs
+C:\study\WPF\part2\StatusBarEx\obj\Debug\App.g.cs
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx_MarkupCompile.cache
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx_MarkupCompile.lref
+C:\study\WPF\part2\StatusBarEx\obj\Debug\MainWindow.baml
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx.g.resources
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx.Properties.Resources.resources
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx.csproj.GenerateResource.cache
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx.csproj.CoreCompileInputs.cache
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx.exe
+C:\study\WPF\part2\StatusBarEx\obj\Debug\StatusBarEx.pdb

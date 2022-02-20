@@ -1,0 +1,19 @@
+﻿<Window x:Class="MouseEventEx.Tunneling"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MouseEventEx"
+        mc:Ignorable="d"
+        Title="Tunneling" Height="400" Width="400" Background="Bisque"
+        PreviewMouseDown="Window_PreviewMouseDown">
+    <Grid PreviewMouseDown="Grid_PreviewMouseDown">
+        <Button Margin="10" PreviewMouseDown="Btn_PreviewMouseDown">
+            <Canvas Width="200" Height="200" Background="LightCoral"
+                    PreviewMouseDown="Canv_PreviewMouseDown">
+                <Ellipse Fill="Chartreuse" Stroke="Black" Width="100" Height="100" 
+                         Canvas.Left="57" Canvas.Top="60" PreviewMouseDown="Ellipse_PreviewMouseDown"/>
+            </Canvas>
+        </Button>
+    </Grid>
+</Window>
